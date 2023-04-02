@@ -2,5 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/></h1>
 <h3 align="center">Data analyst student</h3>
 
-- 🌱 I’m currently learning Python, SQL
+- 🌱 Interested in data analysis
 - 📫 How to reach me: angolechka97@yandex.ru
