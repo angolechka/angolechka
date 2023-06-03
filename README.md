@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/></h1>
 <h3 align="center">HR analyst </h3>
 
-👩‍💻 Currently working as HR analyst in UralChem
-🌱 Interested in Data analysis
-📫 How to reach me:
+- 👩‍💻 Currently working as HR analyst in UralChem
+- 🌱 Interested in Data analysis
+- 📫 How to reach me:
 
