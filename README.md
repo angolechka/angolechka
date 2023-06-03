@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anna Golubeva</a> 
 👋 </h1>
-<h3 align="center"> Junior data analyst </h3>
+<h3 align="center"> Junior Data Analyst </h3>
 <div id='socials' align="center">
   <a href="linkedid-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
