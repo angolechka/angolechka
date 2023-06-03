@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/anna-golubeva-846061238/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
   </a>
-  <a href="telegram.me/a_golubeva">
+  <a href="https://www.telegram.me/a_golubeva">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp
   </a>
 </div>
