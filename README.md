@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Anna Golubeva</a> 
 👋 </h1>
 <h3> Junior Data Analyst </h3>
-
- </div> <br/> 
       
 - 👩‍💻 Currently working as HR analyst in UralChem
 - 🌱 Interested in Data analysis
