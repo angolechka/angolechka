@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anna Golubeva</a> 
+<h1>Hi there, I'm Anna Golubeva</a> 
 👋 </h1>
 <h3> Junior Data Analyst </h3>
       
