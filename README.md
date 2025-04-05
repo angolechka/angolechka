@@ -2,7 +2,7 @@
 👋 </h1>
 <h3> Junior Data Analyst </h3>
       
-- 👩‍💻 Currently working as HR analyst in UralChem
+- 👩‍💻 Currently working as HR analyst in SBER
 - 🌱 Interested in Data analysis
 - 📄 My [CV](https://drive.google.com/file/d/1PWeofI7Sfqe3Wq2i38EDEYuk3l9XU6P7/view?usp=drivesdk)
 <h3>✉️ How to reach me:</h3> 
