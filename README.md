@@ -4,7 +4,7 @@
       
 - 👩‍💻 Currently working as HR analyst in UralChem
 - 🌱 Interested in Data analysis
-- 📄 My [CV](https://drive.google.com/file/d/1kdj9fdUr1m2vitg5mX-vL_X4ZvTslnED/view?usp=drivesdk)
+- 📄 My [CV](https://drive.google.com/file/d/1PWeofI7Sfqe3Wq2i38EDEYuk3l9XU6P7/view?usp=drivesdk)
 <h3>✉️ How to reach me:</h3> 
 <div>
   <a href="https://www.linkedin.com/in/anna-golubeva-846061238/">
