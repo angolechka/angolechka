@@ -2,8 +2,8 @@
 👋 </h1>
 <h3> Data Analyst </h3>
       
-- 👩‍💻 Currently working as HR analyst in SBER
-- 📄 My [CV](https://drive.google.com/file/d/1PWeofI7Sfqe3Wq2i38EDEYuk3l9XU6P7/view?usp=drivesdk)
+- 👩‍💻 Currently working in SBER
+
 <h3>✉️ How to reach me:</h3> 
 <div>
   <a href="https://www.linkedin.com/in/anna-golubeva-846061238/">
